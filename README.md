@@ -8,7 +8,7 @@ I do feel learning never stops and so I am constantly learning
 
 I’m currently learning Advanced statistics and maths for DL
 
-🤔 I’m looking for help with I’m looking for help with building a Datascience Portfolio.
+🤔 I’m looking for help with building a Datascience Portfolio.
 
 👯 I’m looking to collaborate on open source prpjects
 
