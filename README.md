@@ -1,10 +1,17 @@
 ### Hi there 👋 I'm Rahul
+
 I've completed my BS in IT and Master's In AI program from simplilearn.
-My keen interests lie in ML, DL and DSA. I love coding and Python is ![image](https://user-images.githubusercontent.com/67165234/126637154-060c48ac-faa6-42ad-b59f-780261c76a5c.png) 
+
+My keen interests lie in ML, DL and DSA. I love coding and Python is <3
+
 I do feel learning never stops and so I am constantly learning
+
 I’m currently learning Advanced statistics and maths for DL
+
 🤔 I’m looking for help with I’m looking for help with building a Datascience Portfolio.
+
 👯 I’m looking to collaborate on open source prpjects
+
 ⚡ Fun fact: Vending machines are bigger threats to humanity than sharks. ~ according to the stats
 <!--
 **rahul23aug/rahul23aug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
