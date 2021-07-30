@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rahul
 
-I've completed my BS in IT and Master's In AI program from simplilearn.
+I've completed my BS in IT from Wilson college, Mumbai and Master's In AI program from simplilearn.
 
 My keen interests lie in ML, DL and DSA. I love coding and Python is <3
 
